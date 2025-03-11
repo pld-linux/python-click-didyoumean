@@ -9,7 +9,7 @@ Summary(pl.UTF-8):	Włączenie funkcji "czy miałeś na myśli" w stylu gita w c
 Name:		python-click-didyoumean
 # keep 0.0.x here for python2 support
 Version:	0.0.3
-Release:	2
+Release:	3
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/click-didyoumean/
